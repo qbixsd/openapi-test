@@ -1,0 +1,5 @@
+# Project exclude paths
+/openapi-test-contract/target/
+/openapi-test-implementation/target/
+*.iml
+/.idea
